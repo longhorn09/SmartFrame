@@ -1,5 +1,7 @@
 # smartframe
-Installation guide for Lenovo Smart Frame, specifically for an electrical outlet for a clean install
+Installation guide for Lenovo Smart Frame, specifically for an electrical outlet for a clean install.  
+The Lenovo Smart Frame comes with an enormous power adapter that won't sit flush for any wall mounted install.  
+I was unable to find a 1-gang recessed outlet that fit my needs, especially since I live in unit that requires metal electrical boxes and metal clad electrical cables.  
 
 # Parts needed
 * Datacomm 45-0072-WH
