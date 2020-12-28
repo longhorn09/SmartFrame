@@ -1,7 +1,10 @@
 # Outlet installation for the Lenovo Smart Frame
 Installation guide for Lenovo Smart Frame, specifically for an electrical outlet for a clean install.  
 The Lenovo Smart Frame comes with an enormous power adapter that won't sit flush for any wall mounted install.  
-I was unable to find a 1-gang recessed outlet that fit my needs, especially since I live in unit that requires metal electrical boxes and metal clad electrical cables.  
+I was unable to find a 1-gang recessed outlet that fit my specific needs.
+
+So what I found that works is an Eaton 1210W outlet which will allow the large adapter to sit vertical in the outlet.
+And the Datacomm media plate is recessed, but still small enough in dimsensions to be covered by the Lenovo Smart Frame itself.
 
 # Parts needed
 * Datacomm 45-0072-WH
