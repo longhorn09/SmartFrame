@@ -11,7 +11,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * Eaton 1210W (for 20A outlet)
 
 # Photos
-If you happen to lose the 4 metal screws which plug the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
+If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
 
 ![before_install](https://user-images.githubusercontent.com/11417589/103190018-d290d980-4894-11eb-9d03-f45e2454b35c.png)
 ![lenovo_plug](https://user-images.githubusercontent.com/11417589/103190019-d3c20680-4894-11eb-837f-35895fa30de8.png)
