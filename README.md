@@ -22,6 +22,8 @@ If you happen to lose the 4 metal screws which connect the metal electrical box 
 ![lenovo_plug](https://user-images.githubusercontent.com/11417589/103190019-d3c20680-4894-11eb-837f-35895fa30de8.png)
 
 
+# Recessed media kit installed
+![pic_install_](https://user-images.githubusercontent.com/11417589/104039531-1d1b2b80-519c-11eb-9c74-5e3cae6290d2.png)
 
 
 # Plug information
