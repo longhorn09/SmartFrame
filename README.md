@@ -7,8 +7,8 @@ So what I found that works is an Eaton 1210W outlet which will allow the large a
 Datacomm media plate is recessed, but still small enough in dimensions to be covered by the Lenovo Smart Frame itself, but deep enough so that the adapter doesn't stick out.
 
 # Parts needed
-* Datacomm 45-0072-WH
-* Eaton 1210W (for 20A outlet)
+* [Datacomm 45-0072-WH](https://www.amazon.com/DataComm-Electronics-45-0072-WH-Commercial-Receptacle/dp/B00HLVK4X4)
+* [Eaton 1210W (for 20A outlet)](https://www.amazon.com/EATON-Wiring-1210W-Surge-White/dp/B0052EB3T6/ref=sr_1_2?dchild=1&keywords=eaton+1210-w&qid=1610124004&s=electronics&sr=1-2-catcorr)
 * [Lenovo Smart Frame](https://www.lenovo.com/us/en/virtual-reality-and-smart-devices/smart-home/smart-home-series/Lenovo-CD-3L501/p/ZZISZSDCD04)
 
 # Optional parts needed depending on situation
