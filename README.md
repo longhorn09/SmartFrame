@@ -17,6 +17,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * [12/2 Metal clad cable](https://www.homedepot.com/p/Southwire-12-2-x-25-ft-Solid-CU-MC-Metal-Clad-Armorlite-Cable-68580021/202316370?MERCH=REC-_-searchViewed-_-NA-_-202316370-_-N)
 * wire nuts, electrician preferred over push-in connectors
 * [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
+* 4-40 x 3/8" screw
 
 # Tools & misc
 * Tin snips for working with metal clad (MC)
@@ -29,8 +30,6 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * [Insured electrician](https://sangabrielelectric.com/)
 
 # Photos
-If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
-
 ![before_install](https://user-images.githubusercontent.com/11417589/103190018-d290d980-4894-11eb-9d03-f45e2454b35c.png)
 ![lenovo_plug](https://user-images.githubusercontent.com/11417589/103190019-d3c20680-4894-11eb-837f-35895fa30de8.png)
 
