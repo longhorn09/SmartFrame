@@ -14,7 +14,6 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * Arlington Industries 38RAST  (1/2" knockout)
 * Alternatively: Bridgeport 38ACDS
 * 12/2 Metal clad cable
-* 
 
 # Photos
 If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
