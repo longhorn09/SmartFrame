@@ -18,6 +18,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * wire nuts, electrician preferred over push-in connectors
 * [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
 * 4-40 x 3/8" screw
+* [Klein fishing rod](https://www.homedepot.com/p/Klein-Tools-6-ft-Splinter-Guard-Glow-Rod-56406/204178255?NCNI-5)
 
 # Tools & misc
 * [Tin snips](https://www.homedepot.com/p/Wiss-9-3-4-in-Compound-Action-Straight-Cut-Snip-M3RS/100060795?MERCH=REC-_-pipinstock-_-312263921-_-100060795-_-N) for working with metal clad (MC)
