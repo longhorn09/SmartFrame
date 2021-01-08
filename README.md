@@ -18,6 +18,9 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * wire nuts, electrician preferred over push-in connectors
 * [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
 
+# Recommended
+* [Insured electrician] (https://sangabrielelectric.com/)
+
 # Photos
 If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
 
