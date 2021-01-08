@@ -18,6 +18,13 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * wire nuts, electrician preferred over push-in connectors
 * [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
 
+# Tools & misc
+* Tin snips for working with MC
+* wire stripper
+* [outlet tester](https://www.homedepot.com/p/Klein-Tools-GFCI-Receptacle-Tester-RT210/206517824?MERCH=REC-_-pipsem-_-206517828-_-206517824-_-N)
+* [3M electrical tape](https://www.homedepot.com/p/3M-Scotch-Super-33-3-4-in-x-66-ft-Electrical-Tape-6132-BA-10/100073402)
+* [stud finder](https://www.zircon.com/tools/studsensor-a150/)
+
 # Recommended
 * [Insured electrician](https://sangabrielelectric.com/)
 
