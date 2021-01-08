@@ -16,7 +16,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * Alternatively: [Bridgeport 38ACDS](https://www.cesco.com/Bridgeport-38ACDS-Bridgeport-38ACDS-Cut-In-Double-Snap-Cable-Connector-3-8-Inch-Die-Cast-Zinc/p2138662)
 * [12/2 Metal clad cable](https://www.homedepot.com/p/Southwire-12-2-x-25-ft-Solid-CU-MC-Metal-Clad-Armorlite-Cable-68580021/202316370?MERCH=REC-_-searchViewed-_-NA-_-202316370-_-N)
 * wire nuts, electrician preferred over push-in connectors
-* [1/2" knock-out plug](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
+* [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
 
 # Photos
 If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
