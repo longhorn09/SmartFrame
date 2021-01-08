@@ -32,7 +32,9 @@ And it requires 30W of power, 1.5A x 20V.
 ![adapter_height](https://user-images.githubusercontent.com/11417589/103448330-d5f1df80-4c5d-11eb-9c4e-2df143e5dc20.png)
 ![adapter_info](https://user-images.githubusercontent.com/11417589/103448324-c83c5a00-4c5d-11eb-90b1-77d3a469ae56.png)
 
-# Pics of installation
+# Before pics of installation
 ![Before](https://user-images.githubusercontent.com/11417589/104033334-fdccd000-5194-11eb-8980-9c3badb87343.png)
+
+# After pics of installation
 ![After](https://user-images.githubusercontent.com/11417589/104033339-fe656680-5194-11eb-9f33-3549a39f167c.png)
 ![Power adapter flush](https://user-images.githubusercontent.com/11417589/104033430-2359d980-5195-11eb-93bf-c97a3c192b63.png)
