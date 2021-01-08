@@ -16,7 +16,6 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * 12/2 Metal clad cable
 * 
 
-
 # Photos
 If you happen to lose the 4 metal screws which connect the metal electrical box to the plastic media recessed mount, you can buy 4-40 3/8" screws from your nearest big box home improvement retailer.  
 
@@ -32,3 +31,8 @@ And it requires 30W of power, 1.5A x 20V.
 ![adapter_len](https://user-images.githubusercontent.com/11417589/103448323-c7a3c380-4c5d-11eb-9ebd-05c1410bf14d.png)
 ![adapter_height](https://user-images.githubusercontent.com/11417589/103448330-d5f1df80-4c5d-11eb-9c4e-2df143e5dc20.png)
 ![adapter_info](https://user-images.githubusercontent.com/11417589/103448324-c83c5a00-4c5d-11eb-90b1-77d3a469ae56.png)
+
+# Pics of installation
+![Before](https://user-images.githubusercontent.com/11417589/104033334-fdccd000-5194-11eb-8980-9c3badb87343.png)
+![After](https://user-images.githubusercontent.com/11417589/104033339-fe656680-5194-11eb-9f33-3549a39f167c.png)
+![Power adapter flush](https://user-images.githubusercontent.com/11417589/104033430-2359d980-5195-11eb-93bf-c97a3c192b63.png)
