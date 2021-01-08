@@ -9,6 +9,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 # Parts needed
 * Datacomm 45-0072-WH
 * Eaton 1210W (for 20A outlet)
+* [Lenovo Smart Frame](https://www.lenovo.com/us/en/virtual-reality-and-smart-devices/smart-home/smart-home-series/Lenovo-CD-3L501/p/ZZISZSDCD04)
 
 # Optional parts needed depending on situation
 * Arlington Industries 38RAST  (1/2" knockout)
