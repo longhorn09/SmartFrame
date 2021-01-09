@@ -14,7 +14,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 # Optional parts needed depending on situation
 * [Arlington Industries 38RAST](https://www.homedepot.com/p/Arlington-Industries-1-2-in-Retrofit-Snap2It-Cable-Connector-38RAST-1/309035364?NCNI-5) (for old work retrofit)
 * Alternatively: [Bridgeport 38ACDS](https://www.cesco.com/Bridgeport-38ACDS-Bridgeport-38ACDS-Cut-In-Double-Snap-Cable-Connector-3-8-Inch-Die-Cast-Zinc/p2138662) (for old work retrofit)
-* Alternatively: [Halex 25803 Flex Cut-in Snap lock connector](http://halexco.com/products.cfm?siteSection=contractor&productID=1654&product_group=FLX)
+* Alternatively: [Halex 25803 Flex Cut-in Snap lock connector](http://halexco.com/products.cfm?siteSection=contractor&productID=1654&product_group=FLX) (for old work retrofit)
 * [12/2 Metal clad cable](https://www.homedepot.com/p/Southwire-12-2-x-25-ft-Solid-CU-MC-Metal-Clad-Armorlite-Cable-68580021/202316370?MERCH=REC-_-searchViewed-_-NA-_-202316370-_-N)
 * wire nuts, electrician preferred over push-in connectors
 * [1/2" knock-out seals](https://www.homedepot.com/p/Halex-1-2-in-Knock-Out-Seals-4-Pack-26071/100191724)
