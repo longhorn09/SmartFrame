@@ -56,6 +56,16 @@ And it requires 30W of power, 1.5A x 20V.
 # Height and positioning
 After a friend commented that the frame was too high, I did some research and found that the rule of thumb for picture hanging is the center of the picture should be around 57 to 61" from the floor. Apparently Christie's gallery standard is 1.55m which is 61". Therefore, to lower the positioning of the frame requires some spackling, sanding, and paint.
 
+### Supplies
+* [Dap DryDex](https://www.homedepot.com/p/DAP-DryDex-16-oz-Dry-Time-Indicator-Spackling-Paste-12348/100634326)
+* [Dap Patch-N-Paint](https://www.homedepot.com/p/DAP-Patch-N-Paint-8-oz-White-Premium-Grade-Lightweight-Spackling-Paste-01602/100211455)
+* [3M drywall sponge](https://www.homedepot.com/p/3M-2-875-in-x-4-875-in-x-1-in-120-Grit-Fine-Angled-Drywall-Sanding-Sponge-CP-042NA/202074116)
+* [3" tiny roller](https://www.homedepot.com/p/3-in-x-1-4-in-Tiny-Trim-Shed-Resistant-White-Woven-Mini-Paint-Roller-Kit-HD-MS-4/205871764)
+
+![spackle_paint](https://user-images.githubusercontent.com/11417589/104418609-c9fafd00-553c-11eb-85e9-01c9ad7333bd.png)
+![lowered](https://user-images.githubusercontent.com/11417589/104418606-c8c9d000-553c-11eb-8cfb-9ff2f4489c19.png)
+
+
 # Insulation
 When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulation to make fishing inwall easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. And if you watch too many DIY videos, you start getting inspired. [YouTube](https://youtu.be/9eeZtMTmFFI?t=123)
 
