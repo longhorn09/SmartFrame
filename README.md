@@ -29,7 +29,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * [stud finder](https://www.zircon.com/tools/studsensor-a150/)
 
 # Recommended
-* [Insured electrician](https://sangabrielelectric.com/)
+* [Licensed and insured electrician](https://sangabrielelectric.com/)
 
 # Photos
 ![before_install](https://user-images.githubusercontent.com/11417589/103190018-d290d980-4894-11eb-9d03-f45e2454b35c.png)
