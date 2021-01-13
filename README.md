@@ -31,7 +31,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 # Recommended
 * [Licensed and insured electrician](https://sangabrielelectric.com/)
 
-# Photos
+# Datacomm recessed media outlet
 ![before_install](https://user-images.githubusercontent.com/11417589/103190018-d290d980-4894-11eb-9d03-f45e2454b35c.png)
 ![lenovo_plug](https://user-images.githubusercontent.com/11417589/103190019-d3c20680-4894-11eb-837f-35895fa30de8.png)
 
