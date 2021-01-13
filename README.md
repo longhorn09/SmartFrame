@@ -67,7 +67,7 @@ When carving out the cutout in the drywall to fit the recessed media outlet, you
 * [mud mixer](https://www.homedepot.com/p/ToolPro-28-in-Drywall-Mud-Mixer-with-Pail-Saver-Tip-TP03025/301284431)
 
 You'll want a 5 gallon bucket and lid. Cut a 1" hole in the topic of the bucket.
-The Greenfiber insulation is designed to be blown-in via a machine. But you can fluff it up using a drywall or paint mixing attachment.
+The Greenfiber insulation is designed to be blown-in via a machine. But you can fluff it up using a drywall mud or paint mixing attachment.
 Cut out some of the fiber and put it in the bucket, and then blend it with the drywall/paint mixing drill bit.
 After it's blended, I found a 2 cup pet food scoop to be perfect for shoveling insulation into the walls.
 Wear a mask and goggles when blending and filling, it'll get a little messy with lots of particles in the air.
