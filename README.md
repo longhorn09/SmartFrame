@@ -72,8 +72,7 @@ Cut out some of the fiber and put it in the bucket, and then blend it with the d
 After it's blended, I found a 2 cup pet food scoop to be perfect for shoveling insulation into the walls.
 Wear a mask and goggles when blending and filling, it'll get a little messy with lots of particles in the air.
 
-![PXL_20201230_180811496](https://user-images.githubusercontent.com/11417589/104414059-31ad4a00-5535-11eb-97e3-962b36cbeab2.jpg)
 ![PXL_20201230_174422674](https://user-images.githubusercontent.com/11417589/104414065-3245e080-5535-11eb-8873-7f4c75fffbb7.jpg)
-![PXL_20201230_174221077](https://user-images.githubusercontent.com/11417589/104414078-37a32b00-5535-11eb-918b-88f5ffd07978.jpg)
+![PXL_20201230_180811496](https://user-images.githubusercontent.com/11417589/104414059-31ad4a00-5535-11eb-97e3-962b36cbeab2.jpg)
 ![PXL_20201230_185825865](https://user-images.githubusercontent.com/11417589/104414080-38d45800-5535-11eb-8087-a6488fa13546.jpg)
 
