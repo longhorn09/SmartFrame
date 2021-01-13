@@ -69,7 +69,7 @@ After a friend commented that the frame was too high, I did some research and fo
 # Insulation
 When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulation to make fishing inwall easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. And if you watch too many DIY videos, you start getting inspired. [YouTube](https://youtu.be/9eeZtMTmFFI?t=123)
 
-## Supplies
+### Supplies
 * [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635)
 * [2 cup pet food scoop](https://www.tractorsupply.com/tsc/product/petmate-pet-food-scoop-2-cup) 
 * [5 gallon bucket](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-05GLHD2/100087613?)
