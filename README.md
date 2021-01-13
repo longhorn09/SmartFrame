@@ -52,3 +52,16 @@ And it requires 30W of power, 1.5A x 20V.
 # After pics (hidden power cable)
 ![After](https://user-images.githubusercontent.com/11417589/104033339-fe656680-5194-11eb-9f33-3549a39f167c.png)
 ![Power adapter flush](https://user-images.githubusercontent.com/11417589/104033430-2359d980-5195-11eb-93bf-c97a3c192b63.png)
+
+# Height and positioning
+After a friend commented that the frame was too high, I did some research and found that the rule of thumb for picture hanging is the center of the picture should be around 57 to 61" from the floor. Apparently Christie's gallery standard is 1.55m which is 61". Therefore, to lower the positioning of the frame requires some spackling, sanding, and paint.
+
+# Insulation
+When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulationt to make fishing for cable easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. 
+
+You'll want a bucket and lid. Cut a 1" hole in the topic of the bucket.
+Get some [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635).
+This is designed to be blown-in via a machine. But you can fluff it up using a drywall or paint mixing attachment.
+Cut out some of the fiber and put it in the bucket, and then blend it with the drywall/paint mixing drill bit.
+After it's blended, I found a 2 cup [pet food scoop](https://www.tractorsupply.com/tsc/product/petmate-pet-food-scoop-2-cup) to be perfect for shoveling insulation into the walls.
+Wear a mask and goggles when blending and filling, it'll get a little messy with lots of particles in the air.
