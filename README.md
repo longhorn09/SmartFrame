@@ -60,16 +60,16 @@ After a friend commented that the frame was too high, I did some research and fo
 When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulationt to make fishing for cable easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. 
 
 ## Supplies
-* [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635).
+* [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635)
 * [2 cup pet food scoop](https://www.tractorsupply.com/tsc/product/petmate-pet-food-scoop-2-cup) 
 * [5 gallon bucket](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-05GLHD2/100087613?)
 * [5 gallon lid](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Leakproof-Lid-5GLD-ORANGE-LID-for-5GL-HOMER-PAIL/202264044?)
+* [mud mixer](https://www.homedepot.com/p/ToolPro-28-in-Drywall-Mud-Mixer-with-Pail-Saver-Tip-TP03025/301284431)
 
-You'll want a bucket and lid. Cut a 1" hole in the topic of the bucket.
-Get some 
-This is designed to be blown-in via a machine. But you can fluff it up using a drywall or paint mixing attachment.
+You'll want a 5 gallon bucket and lid. Cut a 1" hole in the topic of the bucket.
+The Greenfiber insulation is designed to be blown-in via a machine. But you can fluff it up using a drywall or paint mixing attachment.
 Cut out some of the fiber and put it in the bucket, and then blend it with the drywall/paint mixing drill bit.
-After it's blended, I found a to be perfect for shoveling insulation into the walls.
+After it's blended, I found a 2 cup pet food scoop to be perfect for shoveling insulation into the walls.
 Wear a mask and goggles when blending and filling, it'll get a little messy with lots of particles in the air.
 
 ![PXL_20201230_180811496](https://user-images.githubusercontent.com/11417589/104414059-31ad4a00-5535-11eb-97e3-962b36cbeab2.jpg)
