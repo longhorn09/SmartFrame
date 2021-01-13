@@ -57,7 +57,7 @@ And it requires 30W of power, 1.5A x 20V.
 After a friend commented that the frame was too high, I did some research and found that the rule of thumb for picture hanging is the center of the picture should be around 57 to 61" from the floor. Apparently Christie's gallery standard is 1.55m which is 61". Therefore, to lower the positioning of the frame requires some spackling, sanding, and paint.
 
 # Insulation
-When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulationt to make fishing for cable easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. And if you watch too many DIY videos, you start getting inspired. [YouTube](https://youtu.be/9eeZtMTmFFI?t=123)
+When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulation to make fishing inwall easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. And if you watch too many DIY videos, you start getting inspired. [YouTube](https://youtu.be/9eeZtMTmFFI?t=123)
 
 ## Supplies
 * [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635)
