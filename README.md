@@ -37,7 +37,7 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 
 # Electrical
 In general, to make a new electrical outlet, you want to plug into an existing circuit that's directly below is the easiest way to go.  
-One of the challenges in a commercial setting compared to traditional residential is dealing with metal electrical boxes.  
+One of the challenges in a multifamily setting compared to traditional single-family residential is dealing with metal electrical boxes.  
 To run new metal clad 12/2 cable into an electrical box requires opening up a 1/2" knock out.  
 This is oftentimes easier said then done given then tight quarters. Traditional approaches are with a hammer and a flat head screwdriver or awl.    
 But if that doesn't work, then a right angle drill adapter with a self-driving screw works as well to give you a handle to pop out the knock out with.  
