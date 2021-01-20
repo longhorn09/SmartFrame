@@ -83,7 +83,8 @@ After a friend commented that the frame was too high, I did some research and fo
 When carving out the cutout in the drywall to fit the recessed media outlet, you may find that the insulation is not as densely packed as you'd like for thermal and noise insulation. Or the electrician may pull out some insulation to make fishing inwall easier. Since you have an opening in the wall, it's a rare opportunity to improve the insulation. And if you watch too many DIY videos, you start getting inspired. [YouTube](https://youtu.be/9eeZtMTmFFI?t=123)
 
 You should also measure the thickness of your drywall while you have it cut open.   
-That way in the future if you need to do patch work for whatever reason, you can buy the right width.
+That way in the future if you need to do patch work for whatever reason, you can buy the right width.  
+In my case, it's 5/8" thick drywall. The terms drywall and sheetrock are used interchangeably.
 ![drywall_thicc](https://user-images.githubusercontent.com/11417589/105119670-6b7ed300-5a96-11eb-9ff3-281c19ccc101.png)
 
 
