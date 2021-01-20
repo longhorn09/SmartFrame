@@ -42,7 +42,11 @@ To run new metal clad 12/2 cable into an electrical box requires opening up a 1/
 This is oftentimes easier said then done given then tight quarters. Traditional approaches are with a hammer and a flat head screwdriver or awl.    
 But if that doesn't work, then a right angle drill adapter with a self-driving screw works as well to give you a handle to pop out the knock out with.  
 ![ko_scratched](https://user-images.githubusercontent.com/11417589/104987044-55abd800-59da-11eb-98ba-94272f1ff670.png)
+
+Screw in a self-driving sheet metal screw with a right angle drill adapter from either Milwaulkee or Dewault
 ![ko_screwed](https://user-images.githubusercontent.com/11417589/104987041-55134180-59da-11eb-910f-3bffbba5fd10.png)
+
+Pry open the knockout with the drilled in screw
 ![popout_ko](https://user-images.githubusercontent.com/11417589/104987039-53e21480-59da-11eb-9c8f-06e6ca727353.png)
 
 # Recessed electrical outlet installed and Lenovo SmartFrame mounting bracket
