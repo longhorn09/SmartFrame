@@ -49,8 +49,15 @@ Screw in a self-driving sheet metal screw with a right angle drill adapter from 
 Pry open the knockout with the drilled in screw
 ![popout_ko](https://user-images.githubusercontent.com/11417589/104987039-53e21480-59da-11eb-9c8f-06e6ca727353.png)
 
+You can use an awl and hammer or flathead screwdriver and hammer to put the connector into the 1/2" knockout.
+![awl_hammer](https://user-images.githubusercontent.com/11417589/105655395-98abf680-5e85-11eb-9637-857c48c84c9d.png)
+
+The [Arlington 38RAST](https://www.homedepot.com/p/Arlington-Industries-1-2-in-Retrofit-Snap2It-Cable-Connector-38RAST-1/309035364?NCNI-5) in the 1/2" knockout.  
+![arlington_38rast](https://user-images.githubusercontent.com/11417589/105655397-99dd2380-5e85-11eb-9706-db9b7ac5c251.png)
+
+
 # Recessed electrical outlet installed and Lenovo SmartFrame mounting bracket
-![pic_install_](https://user-images.githubusercontent.com/11417589/104039826-7c793b80-519c-11eb-8796-6e4143812f7c.png)
+![pic_install](https://user-images.githubusercontent.com/11417589/104039826-7c793b80-519c-11eb-8796-6e4143812f7c.png)
 
 # Plug information
 The adapter plug is roughly 2" tall by 3 1/8" long.  
