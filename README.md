@@ -22,9 +22,9 @@ Datacomm media plate is recessed, but still small enough in dimensions to be cov
 * [Klein fishing rod](https://www.homedepot.com/p/Klein-Tools-6-ft-Splinter-Guard-Glow-Rod-56406/204178255?NCNI-5)
 
 # Tools & misc
-* [Tin snips](https://www.homedepot.com/p/Wiss-9-3-4-in-Compound-Action-Straight-Cut-Snip-M3RS/100060795?MERCH=REC-_-pipinstock-_-312263921-_-100060795-_-N) for working with metal clad (MC)
-* [wire stripper](https://www.homedepot.com/p/Klein-Tools-6-1-4-in-Wire-Stripper-and-Cutter-for-10-18-AWG-Solid-Wire-11045/100630729)
-* [outlet tester](https://www.homedepot.com/p/Klein-Tools-GFCI-Receptacle-Tester-RT210/206517824?MERCH=REC-_-pipsem-_-206517828-_-206517824-_-N)
+* [Wiss tin snips](https://www.homedepot.com/p/Wiss-9-3-4-in-Compound-Action-Straight-Cut-Snip-M3RS/100060795?MERCH=REC-_-pipinstock-_-312263921-_-100060795-_-N) for working with metal clad (MC)
+* [Klein wire stripper](https://www.homedepot.com/p/Klein-Tools-6-1-4-in-Wire-Stripper-and-Cutter-for-10-18-AWG-Solid-Wire-11045/100630729)
+* [Klein outlet tester](https://www.homedepot.com/p/Klein-Tools-GFCI-Receptacle-Tester-RT210/206517824?MERCH=REC-_-pipsem-_-206517828-_-206517824-_-N)
 * [3M electrical tape](https://www.homedepot.com/p/3M-Scotch-Super-33-3-4-in-x-66-ft-Electrical-Tape-6132-BA-10/100073402)
 * [Zircon stud finder](https://www.zircon.com/tools/studsensor-a150/)
 
