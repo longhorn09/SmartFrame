@@ -94,27 +94,6 @@ That way in the future if you need to do patch work for whatever reason, you can
 In my case, it's 5/8" thick drywall. The terms drywall and sheetrock are used interchangeably.
 ![drywall_thicc](https://user-images.githubusercontent.com/11417589/105119670-6b7ed300-5a96-11eb-9ff3-281c19ccc101.png)
 
-# Drywall
-
-In certain cases, if you have really thick insulation or your Romex or metal clad (MC) gets caught on something within the wall while fishing, you may need to cut another hole to help fish the MC thru. To patch this utility hole, you can use backer boards, or a California patch, or both.
-
-Cutting open a 4" x 4" hole to help facilitate fishing MC thru the wall.
-![PXL_20210124_031341329](https://user-images.githubusercontent.com/11417589/106074138-f08a6d80-60d0-11eb-9622-9d983a334104.jpg)
-
-![PXL_20210127_191704520](https://user-images.githubusercontent.com/11417589/106074136-f08a6d80-60d0-11eb-8d96-002a3a8c47b5.jpg)
-
-
-![PXL_20210127_151423594](https://user-images.githubusercontent.com/11417589/106074135-f08a6d80-60d0-11eb-9c9a-db16ee04bc75.jpg)
-
-
-Purchase coarse thread screws, don't buy fine thread screws if using a wooden backing.
-![PXL_20210127_151353753](https://user-images.githubusercontent.com/11417589/106074133-eff1d700-60d0-11eb-90f7-854dcce4aa22.jpg)
-
-
-
-![PXL_20210127_044156568](https://user-images.githubusercontent.com/11417589/106074140-f1230400-60d0-11eb-9d37-e03b03f74f8a.jpg)
-
-
 ### Supplies
 * [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635)
 * [2 cup pet food scoop](https://www.tractorsupply.com/tsc/product/petmate-pet-food-scoop-2-cup) 
@@ -132,4 +111,29 @@ Wear a mask and goggles when blending and filling, it'll get a little messy with
 ![PXL_20201230_174422674](https://user-images.githubusercontent.com/11417589/104414065-3245e080-5535-11eb-8873-7f4c75fffbb7.jpg)
 ![PXL_20201230_180811496](https://user-images.githubusercontent.com/11417589/104414059-31ad4a00-5535-11eb-97e3-962b36cbeab2.jpg)
 ![PXL_20201230_185825865](https://user-images.githubusercontent.com/11417589/104414080-38d45800-5535-11eb-8087-a6488fa13546.jpg)
+
+
+# Drywall
+
+In certain cases, if you have really thick insulation or your Romex or metal clad (MC) gets caught on something within the wall while fishing, you may need to cut another hole to help fish the MC thru. To patch this utility hole, you can use backer boards, or a California patch, or both.
+
+Cutting open a 4" x 4" hole to help facilitate fishing MC thru the wall.
+![PXL_20210124_031341329](https://user-images.githubusercontent.com/11417589/106074138-f08a6d80-60d0-11eb-9622-9d983a334104.jpg)
+
+Countersink the screws so that the head of the screw is below the surface of the drywall so it won't stick out.
+![PXL_20210127_151423594](https://user-images.githubusercontent.com/11417589/106074135-f08a6d80-60d0-11eb-9c9a-db16ee04bc75.jpg)
+
+
+![PXL_20210127_191704520](https://user-images.githubusercontent.com/11417589/106074136-f08a6d80-60d0-11eb-8d96-002a3a8c47b5.jpg)
+
+
+
+Purchase coarse thread screws, don't buy fine thread screws if using a wooden backing.
+![PXL_20210127_151353753](https://user-images.githubusercontent.com/11417589/106074133-eff1d700-60d0-11eb-90f7-854dcce4aa22.jpg)
+
+
+
+![PXL_20210127_044156568](https://user-images.githubusercontent.com/11417589/106074140-f1230400-60d0-11eb-9d37-e03b03f74f8a.jpg)
+
+
 
