@@ -94,6 +94,16 @@ That way in the future if you need to do patch work for whatever reason, you can
 In my case, it's 5/8" thick drywall. The terms drywall and sheetrock are used interchangeably.
 ![drywall_thicc](https://user-images.githubusercontent.com/11417589/105119670-6b7ed300-5a96-11eb-9ff3-281c19ccc101.png)
 
+# Drywall
+
+In certain cases, if you have really thick insulation or your Romex or metal clad (MC) gets caught on something within the wall while fishing, you may need to cut another hole to help fish the MC thru. To patch this utility hole, you can use backer boards, or a California patch, or both.
+
+![PXL_20210127_151353753](https://user-images.githubusercontent.com/11417589/106074133-eff1d700-60d0-11eb-90f7-854dcce4aa22.jpg)
+![PXL_20210127_151423594](https://user-images.githubusercontent.com/11417589/106074135-f08a6d80-60d0-11eb-9c9a-db16ee04bc75.jpg)
+![PXL_20210127_191704520](https://user-images.githubusercontent.com/11417589/106074136-f08a6d80-60d0-11eb-8d96-002a3a8c47b5.jpg)
+![PXL_20210124_031341329](https://user-images.githubusercontent.com/11417589/106074138-f08a6d80-60d0-11eb-9622-9d983a334104.jpg)
+![PXL_20210127_044156568](https://user-images.githubusercontent.com/11417589/106074140-f1230400-60d0-11eb-9d37-e03b03f74f8a.jpg)
+
 
 ### Supplies
 * [Greenfiber insulation](https://www.homedepot.com/p/Greenfiber-Low-Dust-Cellulose-Blown-In-Insulation-19-lbs-INS541LD/100318635)
