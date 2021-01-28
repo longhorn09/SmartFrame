@@ -123,7 +123,7 @@ Cutting open a 4" x 4" hole to help facilitate fishing MC thru the wall.
 Countersink the screws so that the head of the screw is below the surface of the drywall so it won't stick out.
 ![PXL_20210127_151423594](https://user-images.githubusercontent.com/11417589/106074135-f08a6d80-60d0-11eb-9c9a-db16ee04bc75.jpg)
 
-
+Spackled the screw holes just to make sure everything we be flush before mud
 ![PXL_20210127_191704520](https://user-images.githubusercontent.com/11417589/106074136-f08a6d80-60d0-11eb-8d96-002a3a8c47b5.jpg)
 
 
@@ -132,7 +132,7 @@ Purchase coarse thread screws, don't buy fine thread screws if using a wooden ba
 ![PXL_20210127_151353753](https://user-images.githubusercontent.com/11417589/106074133-eff1d700-60d0-11eb-90f7-854dcce4aa22.jpg)
 
 
-
+Test fit of the California patch before mudding
 ![PXL_20210127_044156568](https://user-images.githubusercontent.com/11417589/106074140-f1230400-60d0-11eb-9d37-e03b03f74f8a.jpg)
 
 
